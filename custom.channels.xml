@@ -1,5 +1,4 @@
-   <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
    <channels>
-     <channel site="web.magentatv.de" site_id="550" lang="de" xmltv_id="MyTeamTV1.de">Sport 1 - myTeamTV</channel>
-     <channel site="web.magentatv.de" site_id="548" lang="de" xmltv_id="MyTeamTV2.de">Sport 2 - myTeamTV</channel>
+      <channel site="www.magenta.tv" site_id="389265960200" lang="de" xmltv_id="MyTeamTV7.de">Sport 7 - myTeamTV</channel>
    </channels>
