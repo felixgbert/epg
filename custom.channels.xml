@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
    <channels>
       <channel site="www.magenta.tv" site_id="389265960200" lang="de" xmltv_id="MyTeamTV7.de">Sport 7 - myTeamTV</channel>
+      <channel site="www.magenta.tv" site_id="262729768197" lang="de" xmltv_id="MyTeamTV1.de">DE: MAGENTA SPORT 1</channel>
+      <channel site="www.magenta.tv" site_id="389264936249" lang="de" xmltv_id="MyTeamTV8.de">DE: MAGENTA SPORT PPV 8 ᴴᴰ</channel>
    </channels>
