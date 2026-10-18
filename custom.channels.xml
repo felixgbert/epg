@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <!-- hier die kopierten Zeilen einfügen -->
+  <channel site="web.magentatv.de" site_id="548" lang="de" xmltv_id="">Sport 2 - myTeamTV</channel>
+  <channel site="web.magentatv.de" site_id="550" lang="de" xmltv_id="">Sport 1 - myTeamTV</channel>
+</channels>
